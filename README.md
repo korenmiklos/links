@@ -6,6 +6,7 @@
 | **Recent** |
 | [REStud replciation Trello](https://trello.com/b/7YNdeENt/restud-replications) |
 | [My CV](https://koren.mk/cv/) |
+| [Weekly planning sheet](https://docs.google.com/spreadsheets/d/1tF3LbvCgQbkll06U4WMNfOK8PLZkxz3zXCwfSFQ1XOc/edit#gid=423472704) |
 | **Research** |
 | [babyboom](https://github.com/korenmiklos/babyboom) | [<img src="https://img.shields.io/github/issues/korenmiklos/babyboom"/>](https://github.com/korenmiklos/babyboom/issues) | |
 | [bugs🐞](https://github.com/korenmiklos/bugs) | [<img src="https://img.shields.io/github/issues/korenmiklos/bugs"/>](https://github.com/korenmiklos/bugs/issues) | |
