@@ -12,6 +12,9 @@
 | [bugs🐞](https://github.com/korenmiklos/bugs) | [<img src="https://img.shields.io/github/issues/korenmiklos/bugs"/>](https://github.com/korenmiklos/bugs/issues) | |
 | [expat](https://github.com/korenmiklos/expat-analysis) | [<img src="https://img.shields.io/github/issues/korenmiklos/expat-analysis"/>](https://github.com/korenmiklos/expat-analysis/issues) | |
 | [machines](https://github.com/ceumicrodata/machines) | [<img src="https://img.shields.io/github/issues/ceumicrodata/machines"/>](https://github.com/ceumicrodata/machines/issues) | |
+| **REStud** |
+| [REStud replciation Trello](https://trello.com/b/7YNdeENt/restud-replications) |
+| [GitHub repo of packages](https://github.com/orgs/restud-replication-packages/repositories?type=all) |
 | **Reproducibility** |
 | [Reprodicuble Research Standards](https://github.com/REStud/guidance) | [<img src="https://img.shields.io/github/issues/restud/guidance"/>](https://github.com/REStud/guidance/issues) |
 | [Report for Restud AGM](https://github.com/REStud/report) | [<img src="https://img.shields.io/github/issues/restud/report"/>](https://github.com/REStud/report/issues) |
