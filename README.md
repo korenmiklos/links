@@ -15,6 +15,7 @@
 | **REStud** |
 | [REStud replciation Trello](https://trello.com/b/7YNdeENt/restud-replications) |
 | [GitHub repo of packages](https://github.com/orgs/restud-replication-packages/repositories?type=all) |
+| [email](https://webmail.cloudemail365.com/owa/#path=/mail) |
 | **Reproducibility** |
 | [Reprodicuble Research Standards](https://github.com/REStud/guidance) | [<img src="https://img.shields.io/github/issues/restud/guidance"/>](https://github.com/REStud/guidance/issues) |
 | [Report for Restud AGM](https://github.com/REStud/report) | [<img src="https://img.shields.io/github/issues/restud/report"/>](https://github.com/REStud/report/issues) |
